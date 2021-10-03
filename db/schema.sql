@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS jess_db;
+
+CREATE DATABASE jess_db;
